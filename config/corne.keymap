@@ -7,6 +7,7 @@
 #include <dt-bindings/zmk/outputs.h>
 
 // Home row mods macro
+// force rebuild
 #define WHRML(k2,k3,k4) &ht LALT k2  &ht LGUI k3  &ht LCTRL k4
 #define WHRMR(k1,k2,k3) &ht RCTRL k1  &ht RGUI k2  &ht RALT k3
 
